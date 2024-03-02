@@ -1,0 +1,212 @@
+
+[
+    {
+    "id": 1,
+    "name": "Statue of Liberty",
+    "year": 1886,
+    "build_by": "Gustave Eiffel",
+    "memory_of": "American independence",
+    "brief": "A symbol of freedom and democracy, located in New York Harbor.",
+    "image": "images/Statue_of_Liberty1.jpg",
+    "country": "United States",
+    "continent": "North America"
+    },
+    {
+    "id": 2,
+    "name": "Taj Mahal",
+    "year": 1648,
+    "build_by": "Shah Jahan",
+    "memory_of": "Mumtaz Mahal",
+    "brief": "A white marble mausoleum, considered one of the most beautiful buildings in the world.",
+    "image": "images/taj_mahal1.jpg",
+    "country": "India",
+    "continent": "Asia"
+    },
+    {
+    "id": 3,
+    "name": "Eiffel Tower",
+    "year": 1889,
+    "build_by": "Gustave Eiffel",
+    "memory_of": "French Revolution",
+    "brief": "An iconic iron lattice tower located in Paris, France.",
+    "image": "images/Eiffel_Tower.jpg",
+    "country": "France",
+    "continent": "Europe"
+    },
+    {
+    "id": 4,
+    "name": "Great Wall of China",
+    "year": "7th century BC - 17th century AD",
+    "build_by": "Various Chinese dynasties",
+    "memory_of": "Military defense",
+    "brief": "A series of fortifications made of stone, brick, tamped earth, wood, and other materials, it is one of the most extensive and ancient defensive walls in the world.",
+    "image": "images/great_wall_of_china.jpg",
+    "country": "China",
+    "continent": "Asia"
+    },
+    {
+    "id": 5,
+    "name": "Pyramids of Giza",
+    "year": "2580–2560 BC",
+    "build_by": "Various Pharaohs",
+    "memory_of": "Egyptian Pharaohs",
+    "brief": "An ancient complex of tombs and monuments, including the Great Pyramid, built as tombs for the country's pharaohs.",
+    "image": "images/pyramids_of_giza.jpg",
+    "country": "Egypt",
+    "continent": "Africa"
+    },
+    {
+    "id": 6,
+    "name": "Christ the Redeemer",
+    "year": 1931,
+    "build_by": "Heitor da Silva Costa",
+    "memory_of": "Christianity",
+    "brief": "A colossal statue of Jesus Christ in Rio de Janeiro, Brazil, considered the largest Art Deco statue in the world.",
+    "image": "images/christ_the_redeemer.jpg",
+    "country": "Brazil",
+    "continent": "South America"
+    },
+    {
+    "id": 7,
+    "name": "Machu Picchu",
+    "year": "15th century",
+    "build_by": "Inca Empire",
+    "memory_of": "Incan Civilization",
+    "brief": "An ancient Incan city in the Andes mountains of Peru, known for its sophisticated dry-stone walls and scenic location.",
+    "image": "images/machu_picchu.jpg",
+    "country": "Peru",
+    "continent": "South America"
+    },
+    {
+    "id": 8,
+    "name": "Colosseum",
+    "year": 80,
+    "build_by": "Emperor Vespasian",
+    "memory_of": "Roman Empire",
+    "brief": "An ancient amphitheater in Rome, Italy, known for its gladiator battles and public spectacles.",
+    "image": "images/Colosseo.jpg",
+    "country": "Italy",
+    "continent": "Europe"
+    },
+    {
+    "id": 9,
+    "name": "Petra",
+    "year": "5th century BC",
+    "build_by": "Nabataeans",
+    "memory_of": "Trade",
+    "brief": "An ancient city in Jordan famous for its rock-cut architecture and water conduit system.",
+    "image": "images/petra.jpg",
+    "country": "Jordan",
+    "continent": "Asia"
+    },
+    {
+    "id": 10,
+    "name": "Angkor Wat",
+    "year": "12th century",
+    "build_by": "Suryavarman II",
+    "memory_of": "Hinduism, later Buddhism",
+    "brief": "A temple complex in Cambodia, the largest religious monument in the world, originally dedicated to the Hindu god Vishnu.",
+    "image": "images/angkor_wat.jpg",
+    "country": "Cambodia",
+    "continent": "Asia"
+    },
+    {
+    "id": 11,
+    "name": "Mausoleum at Halicarnassus",
+    "year": 350,
+    "build_by": "Artemisia II of Caria",
+    "memory_of": "Mausolus",
+    "brief": "A tomb built in Halicarnassus (modern-day Bodrum, Turkey) for Mausolus, a satrap in the Persian Empire.",
+    "image": "images/mausoleum_at_halicarnassus.jpg",
+    "country": "Turkey",
+    "continent": "Asia"
+    },
+    {
+    "id": 12,
+    "name": "Stonehenge",
+    "year": "3000 BC - 2000 BC",
+    "build_by": "Unknown",
+    "memory_of": "Religious or astronomical purposes",
+    "brief": "A prehistoric monument in Wiltshire, England, consisting of a ring of standing stones.",
+    "image": "images/stonehenge.jpg",
+    "country": "United Kingdom",
+    "continent": "Europe"
+    },
+    {
+    "id": 13,
+    "name": "The Parthenon",
+    "year": 438,
+    "build_by": "Pericles",
+    "memory_of": "Athena",
+    "brief": "A temple on the Athenian Acropolis dedicated to the goddess Athena, considered one of the greatest achievements of ancient Greek architecture.",
+    "image": "images/parthenon.png",
+    "country": "Greece",
+    "continent": "Europe"
+    },
+    {
+    "id": 14,
+    "name": "Moai Statues of Easter Island",
+    "year": "1100 AD - 1500 AD",
+    "build_by": "Rapa Nui civilization",
+    "memory_of": "Ancestors",
+    "brief": "Large stone statues (moai) created by the Rapa Nui people on Easter Island in eastern Polynesia.",
+    "image": "images/moai_statues_of_easter_island.jpg",
+    "country": "Chile",
+    "continent": "South America"
+    },
+    {
+    "id": 15,
+    "name": "Alhambra",
+    "year": "13th century",
+    "build_by": "Nasrid Emirate",
+    "memory_of": "Islamic Spain",
+    "brief": "A palace and fortress complex located in Granada, Spain, known for its intricate Islamic architecture.",
+    "image": "images/alhambra.jpg",
+    "country": "Spain",
+    "continent": "Europe"
+    },
+    {
+    "id": 16,
+    "name": "Sydney Opera House",
+    "year": 1973,
+    "build_by": "Jørn Utzon",
+    "memory_of": "Performing Arts",
+    "brief": "An iconic performing arts center in Sydney, Australia, known for its distinctive sail-like design.",
+    "image": "images/sydney_opera_house.jpg",
+    "country": "Australia",
+    "continent": "Australia"
+    },
+    {
+    "id": 17,
+    "name": "Scott's Hut",
+    "year": "1911",
+    "build_by": "Robert Falcon Scott",
+    "memory_of": "Antarctic exploration",
+    "brief": "A historic site on Ross Island in Antarctica, used as a base for British Antarctic expeditions.",
+    "image": "images/scotts_hut.jpg",
+    "country": "Antarctica",
+    "continent": "Antarctica"
+    },
+    {
+    "id": 18,
+    "name": "Uluru (Ayers Rock)",
+    "year": "30,000+ years",
+    "build_by": "Nature",
+    "memory_of": "Aboriginal culture",
+    "brief": "A large sandstone rock formation in the Northern Territory of Australia, sacred to the Aboriginal people and listed as a UNESCO World Heritage site.",
+    "image": "images/uluru.jpg",
+    "country": "Australia",
+    "continent": "Australia"
+    },
+    {
+    "id": 19,
+    "name": "Mount Erebus",
+    "year": "Erupted continuously",
+    "build_by": "Nature",
+    "memory_of": "Volcanic activity",
+    "brief": "An active volcano located on Ross Island in Antarctica, known for its persistent lava lake within the summit crater.",
+    "image": "images/mount_erebus.jpg",
+    "country": "Antarctica",
+    "continent": "Antarctica"
+    }
+]
